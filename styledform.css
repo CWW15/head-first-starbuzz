@@ -1,0 +1,32 @@
+body{ 
+  background:#efe5d0 url(https://stackblitz.com/files/head-first-starbuzz/github/CWW15/head-first-starbuzz/master/background.gif) top left;
+font-family: Verdana, Helvetica, Arial, sans-serif;
+margin: 20px;
+}
+
+table{
+  border: thin dotted #7e7e7e;
+  padding: 10px;
+}
+
+th{
+  text-align:right;
+  vertical-align: top;
+  padding-right: 10px;
+  padding-top: 2px;
+}
+
+td{
+  vertical-align: top;
+  padding-bottom: 15px;
+}
+
+table table{
+  border:none;
+  padding:0px;
+}
+
+table table td{
+  text-align:right;
+  padding-bottom: 0px;
+}
